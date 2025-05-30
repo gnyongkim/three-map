@@ -1,0 +1,12 @@
+{
+  "options": {
+    "paths": {
+      "root": "./"
+    }
+  },
+  "data": {
+    "zurich": {
+      "mbtiles": "zurich.mbtiles"
+    }
+  }
+}
